@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://twitter.com/VardanSawhney">
@@ -12,15 +10,14 @@
   <img align="left" alt="Vardan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://media.giphy.com/media/zgduo4kWRRDVK/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/seY4Isk6W8IUw/giphy.gif" />
 
 ### I am Vardan Sawhney
 - ⚡ An ML & Open Source enthusiast.
 - 🌱 A Computer Science Undergraduate Student studing at the University of Waterloo
 - 🔭 Currently working on some of my cool side projects based on Web Development and Machine Learning.
 - 💬 I'm currently looking for new, cool, messy design problems to help solve. I love to learn and contribute in any and every possible way.
-
-
+- 🤔 Fun fact: Starry Night by Van Gogh is one of my favourite paintings!
 <!--
 **commai/commai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
