@@ -14,7 +14,7 @@
 
 ### I am Vardan Sawhney
 - ⚡ An ML & Open Source enthusiast.
-- 🌱 A Computer Science Undergraduate Student studing at the University of Waterloo
+- 🌱 A Computer Science Undergraduate Student studying at the University of Waterloo
 - 🔭 Currently working on some of my cool side projects based on Web Development and Machine Learning.
 - 💬 I'm currently looking for new, cool, messy design problems to help solve. I love to learn and contribute in any and every possible way.
 - 🤔 Fun fact: Starry Night by Van Gogh is one of my favourite paintings!
